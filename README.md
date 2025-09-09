@@ -3,4 +3,5 @@ This project is to build a website with a main index page and will link to vario
 This will help me practice my HTML skills.
 
 Credits:
-1 File: flapjacktray.jpg Author: sk8geek Source: Flickr Licence: https://creativecommons.org/licenses/by-sa/2.0/
+1 File: flapjacktray.jpg Author: sk8geek Source: Flickr Licence: https://creativecommons.org/licenses/by-sa/2.0/.
+2 File: custarddessert.jpg Author: ZAC Source: Flickr Licence: https://creativecommons.org/licenses/by/2.0/.
